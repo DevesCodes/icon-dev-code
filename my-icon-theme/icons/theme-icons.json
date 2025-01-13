@@ -1,0 +1,37 @@
+{
+    "iconDefinitions": {
+      "_folder": {
+        "iconPath": "./icons/folder.svg"
+      },
+      "_file": {
+        "iconPath": "./icons/file.svg"
+      },
+      "typescript": {
+        "iconPath": "./icons/ts.svg"
+      },
+      "javascript": {
+        "iconPath": "./icons/js.svg"
+      }
+      ,
+      "srcFolder": {
+      "iconPath": "./icons/src.svg"
+
+      }
+    },
+    "folderNames": {
+      "src": "_folder",
+      "dist": "_folder"
+    },
+    "fileExtensions": {
+      "ts": "typescript",
+      "js": "javascript"
+    },
+    "fileNames": {
+      "package.json": "javascript"
+    },
+    "languageIds": {
+      "typescript": "typescript",
+      "javascript": "javascript"
+    }
+  }
+  
